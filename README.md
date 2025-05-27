@@ -1,2 +1,2 @@
 # PANDA
-PANDA-Proactive Alert Network for Detecting Anomalies
+PANDA - Proactive Alert Network for Detecting Anomalies
