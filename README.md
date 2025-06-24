@@ -103,4 +103,10 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
 
-Created with ❤️ by Sentinels
+## Created with by Sentinels
+
+### Team members:
+[Avishek Das](https://github.com/notavishek) <br>
+[Minhazul Islam Rahat](https://github.com/minhazul73) <br>
+[Alfaz Mahmud Rizve](https://github.com/AlfazMahmudRizve) <br>
+[Turja Dutta](https://github.com/duttaturja)
